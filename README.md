@@ -26,7 +26,7 @@ This Flutter application provides a simple e-commerce experience. It allows user
 
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/ahmedgalal/ecommerce-app.git
+   git clone https://github.com/A7MeDG0L0L/ecommerce_app.git
    ```
 
 2. Install dependencies: 
@@ -77,10 +77,10 @@ lib/
 
 ### Cart and Favorites
 
-| Feature             | Screenshot Phone                               |
-| ------------------- |------------------------------------------------|
-| Cart View           | ![Cart View](screenshots/cart_screen.png)      |
-| Favorites           | ![Favorites](screenshots/favorites_screen.png) |
+| Feature             | Screenshot Phone                              |
+| ------------------- |-----------------------------------------------|
+| Cart View           | ![Cart View](screenshots/cart_screen.png)     |
+| Favorites           | ![Favorites](screenshots/favorite_screen.png) |
 
 ## Animations <a name="animations"></a>
 
